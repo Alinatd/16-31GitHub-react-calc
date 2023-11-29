@@ -1,0 +1,36 @@
+*{
+    
+}
+.container{
+    background-color: black;
+    width: 300px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    padding: 19px;
+    text-align: center;
+   
+    border:1px solid;
+    border-radius: 10px;
+}
+input{
+   height: 60px;
+   width: 280px;
+   font-size: 30px;
+   border-radius: 10px;
+   border: none;
+}
+.knop{
+    font-size: 23px;
+    background-color:rgb(134, 132, 132);
+    border-radius: 40px;
+    border: none;
+    width: 60px;
+    height: 60px;
+    margin: 4px;
+}
+.knop:hover{
+    background-color: rgb(196, 190, 190)
+}
+      
